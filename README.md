@@ -1,0 +1,1 @@
+# camel-route-monitoring-prometheus
